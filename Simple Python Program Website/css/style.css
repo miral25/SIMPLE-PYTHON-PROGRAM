@@ -1,0 +1,16 @@
+#leftmenu{
+	margin-right:20px;
+    width:15%;
+	float:left;	
+    padding: 10px 20px;    
+}
+
+section{   
+	float:left;
+    width: 80%;
+}
+
+#program_header{
+    width: 80%;
+    
+}
